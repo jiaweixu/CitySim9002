@@ -14,8 +14,14 @@ The challenge in this project is:</br>
 2. I have included test cases of edge case, boundary values, euqivalence, and expected exceptions.</br>
 </ol>
 The results of running the program and testing is in folder /Results</br>
-Running result:</br>
+<ul>
+<li>Running result:</br></li>
 ![running result](https://github.com/jiaweixu/CitySim9002/blob/master/Results/result_screen_shot.png "Running Results")
-
+<li>Testing results:</br></li>
+![TestVisitor](https://github.com/jiaweixu/CitySim9002/blob/master/Results/TestVisitor.png "Testing Results: TestVisitor")
+![TestVisitor2](https://github.com/jiaweixu/CitySim9002/blob/master/Results/TestVisitor2.png "Testing Results: TestVisitor2")
+![TestVisitor3](https://github.com/jiaweixu/CitySim9002/blob/master/Results/TestVisitor3.png "Testing Results: TestVisitor3")
+![TestGenerator](https://github.com/jiaweixu/CitySim9002/blob/master/Results/TestVisitor.png "Testing Results: TestGenerator")
+</ul>
 
 
