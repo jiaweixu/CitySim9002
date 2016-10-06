@@ -13,7 +13,7 @@ The challenge in this project is:</br>
 1. I have designed 4 test classes with total 13 tests, which cover all of the 5 methods with returning values.</br>
 2. I have included test cases of edge case, boundary values, euqivalence, and expected exceptions.</br>
 </br>
-The jar file of this project is in folder /dist, it can be run as: java -jar CitySim9002.jar n
+The jar file of this project is in folder /dist, it can be run as: java -jar CitySim9002.jar n </br>
 The results of running the program and testing is in folder /Results</br>
 
 1. Running result:</br>
