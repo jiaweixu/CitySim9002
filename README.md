@@ -1,7 +1,7 @@
 # IS2545 DELIVERABLE 2: Unit Testing 
 ## Jiawei XU (jix20)
 
-The challenge in this project is:
+The challenge in this project is:</br>
 1. Using a appropriate object-oriented design:
 ..1. I have designed three classes: 
 ..2. Constant class to store constant variables: 5 constant variables and not methods
