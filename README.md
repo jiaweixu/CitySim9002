@@ -14,8 +14,8 @@ The challenge in this project is:</br>
 2. I have included test cases of edge case, boundary values, euqivalence, and expected exceptions.</br>
 3. 8 tests in TestGenerator Class have applied test doubles (faked object of Random class) and stubs (faked method of nextInt(int n)).</br>
 </br>
-The jar file of this project is in folder /dist, it can be run as: java -jar CitySim9002.jar n </br>
-The results of running the program and testing is in folder /Results</br>
+The jar file of this project is in folder /dist, it can be run as: "java -jar CitySim9002.jar n". </br>
+The results of running the program and testing is in folder /Results.</br>
 
 1. Running result:</br>
 ![running result](https://github.com/jiaweixu/CitySim9002/blob/master/Results/result_screen_shot.png "Running Results")
