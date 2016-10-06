@@ -22,7 +22,7 @@ The results of running the program and testing is in folder /Results</br>
 ![TestVisitor](https://github.com/jiaweixu/CitySim9002/blob/master/Results/TestVisitor.png "Testing Results: TestVisitor")
 ![TestVisitor2](https://github.com/jiaweixu/CitySim9002/blob/master/Results/TestVisitor2.png "Testing Results: TestVisitor2")
 ![TestVisitor3](https://github.com/jiaweixu/CitySim9002/blob/master/Results/TestVisitor3.png "Testing Results: TestVisitor3")
-![TestGenerator](https://github.com/jiaweixu/CitySim9002/blob/master/Results/TestVisitor.png "Testing Results: TestGenerator")
+![TestGenerator](https://github.com/jiaweixu/CitySim9002/blob/master/Results/TestGenerator.png "Testing Results: TestGenerator")
 </ul>
 
 
