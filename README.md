@@ -23,7 +23,6 @@ The results of running the program and testing is in folder /Results</br>
 ![TestVisitor2](https://github.com/jiaweixu/CitySim9002/blob/master/Results/TestVisitor2.png "Testing Results: TestVisitor2")
 ![TestVisitor3](https://github.com/jiaweixu/CitySim9002/blob/master/Results/TestVisitor3.png "Testing Results: TestVisitor3")
 ![TestGenerator](https://github.com/jiaweixu/CitySim9002/blob/master/Results/TestGenerator.png "Testing Results: TestGenerator")
-</ul>
-
-It can be seen that there is one test failed for 
+</br>
+It can be seen that there is one test failed (testGetName3). It is the case that when I give the visitor an illegal name/type (ohter than the 4 types), the visitor object accepted it and return it through object.getName(). It is expected that a visitor do not have an illegal name/type, so the test is failed. However, this will not happen in real run since the design of the program guarantee a legal name/type for a visitor through ranged random generator and constant variables.</br>
 
