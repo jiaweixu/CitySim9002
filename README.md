@@ -13,7 +13,9 @@ The challenge in this project is:</br>
 1. I have designed 4 test classes with total 13 tests, which cover all of the 5 methods with returning values.</br>
 2. I have included test cases of edge case, boundary values, euqivalence, and expected exceptions.</br>
 </ol>
-The 
+The results of running the program and testing is in folder /Results</br>
+Running result:</br>
+![running result](https://github.com/jiaweixu/CitySim9002/blob/master/Results/result_screen_shot.png "Running Results")
 
 
 
